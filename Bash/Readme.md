@@ -30,3 +30,7 @@ root@localhost:~# ls - l
 ### How to add executable permission to the file
 
 root@localhost:~# chmod +x himom.sh
+
+### Another way to run bash scripts
+
+root@localhost:~# ./himom.sh
