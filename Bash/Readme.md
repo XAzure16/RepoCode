@@ -2,6 +2,8 @@
 
 A bunch of things made in Bash
 
+---
+
 ### How to check if you are in a bash shell
 
 which $SHELL
