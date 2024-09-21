@@ -19,6 +19,4 @@ A bunch of things made in Various Languages
     <img src="./Typescript.png" alt="" width=100 height=100> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 
-  <a href="https://github.com/XAzure16/RepoCode/tree/main/Bash">
-    <img src="./Bash.png" alt="" width=100 height=100> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+
